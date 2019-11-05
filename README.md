@@ -19,13 +19,13 @@ We have 4 methods of access the API:
 4. DELETE
 
 - `GET method` URL http://localhost/API_Restful/api/client/(existing client id).
-![GET method](https://raw.githubusercontent.com/lflimeira02/PHP_API/master/API_Restful/api/images/get.jpg)
+![GET method](https://github.com/raylight75/API_REST/blob/master/api/images/get.jpg)
 - `POST method` URL http://localhost/API_Restful and use post form.
-![GET method](https://raw.githubusercontent.com/lflimeira02/PHP_API/master/API_Restful/api/images/post.jpg)
+![GET method](https://github.com/raylight75/API_REST/blob/master/api/images/post.jpg)
 - `PUT method` URL http://localhost/API_Restful/api/newclient/(existing client id) and passing required parameters.
-![GET method](https://raw.githubusercontent.com/lflimeira02/PHP_API/master/API_Restful/api/images/put.jpg)
+![GET method](https://github.com/raylight75/API_REST/blob/master/api/images/put.jpg)
 - `DELETE method` URL http://localhost/API_Restful/api/client/(existing client id).
-![GET method](https://raw.githubusercontent.com/lflimeira02/PHP_API/master/API_Restful/api/images/delete.jpg)
+![GET method](https://github.com/raylight75/API_REST/blob/master/api/images/delete.jpg)
 
 
 
